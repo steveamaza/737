@@ -1,0 +1,25 @@
+{
+  "name": "mtn-shortcuts",
+  "version": "1.0.0",
+  "description": "A PWA for popular MTN USSD codes",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveamaza/mtn-shortcuts.git"
+  },
+  "author": "King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveamaza/mtn-shortcuts/issues"
+  },
+  "homepage": "https://github.com/steveamaza/mtn-shortcuts#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "jit-grunt": "^0.10.0"
+  }
+}

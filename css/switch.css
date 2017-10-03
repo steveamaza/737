@@ -42,7 +42,7 @@
 .onoffswitch-inner:before {
     content: "YES";
     padding-left: 10px;
-    background-color: #E34C00;
+    background-color: #0E6F91;
     color: #FFFFFF;
 }
 
@@ -69,7 +69,7 @@
 }
 
 .onoffswitch-checkbox:checked + .onoffswitch-label {
-    border-color: #E34C00;
+    border-color: #0E6F91;
 }
 
 .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
